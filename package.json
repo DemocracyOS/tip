@@ -33,9 +33,6 @@
     "events": "component-events",
     "query": "component-query"
   },
-  "browserify": {
-    "transform": "html-browserify"
-  },
   "style": "tip.css",
   "component": {
     "styles": [
